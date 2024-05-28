@@ -27,7 +27,7 @@ pip install pandas scikit-learn matplotlib
 
 ## Code Overview
 
-The script `house_prices_prediction.py` performs the following steps:
+The script `Task1.py` performs the following steps:
 
 1. **Load the Training Data**: The training data is loaded from `train.csv`.
 
@@ -95,10 +95,10 @@ The script `house_prices_prediction.py` performs the following steps:
 ## Running the Code
 
 1. Ensure that `train.csv` and `test.csv` are placed in the appropriate directory as specified in the script.
-2. Run the script `house_prices_prediction.py`.
+2. Run the script `Task1.py`.
 
     ```sh
-    python house_prices_prediction.py
+    python Task1.py
     ```
 
 3. The predicted house prices will be saved in `submission.csv`, and a line graph of the predicted prices will be displayed.
