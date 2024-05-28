@@ -107,10 +107,3 @@ The script `house_prices_prediction.py` performs the following steps:
 
 This project uses the dataset from the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition on Kaggle.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Feel free to contribute to this project by forking the repository and creating pull requests. If you encounter any issues, please open an issue on GitHub.
