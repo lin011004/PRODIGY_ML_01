@@ -9,7 +9,7 @@ The project consists of the following files:
 - `train.csv`: The training dataset containing house features and their corresponding prices.
 - `test.csv`: The testing dataset containing house features for which we need to predict the prices.
 - `submission.csv`: The file where the predicted house prices are saved.
-- `house_prices_prediction.py`: The Python script containing the code for training the model and making predictions.
+- `Task1.py`: The Python script containing the code for training the model and making predictions.
 - `README.md`: This file.
 
 ## Requirements
